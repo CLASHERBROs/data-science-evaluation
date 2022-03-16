@@ -1,3 +1,5 @@
+Competiton link: https://www.kaggle.com/c/ammi-bootcamp-kaggle-competition
+Kaggle notebook link: https://www.kaggle.com/paritoshharora/paritosh-101903069-ds-labevaluation
 1. **Data Analysis**
    1. When observed the training data had 13 columns including ‘price’
    2. First the data was analyzed manually and it was observed that it had some irrelevant features such as ‘title’,’id’,’taster\_twitter\_handle’,’taster\_name’; test data also had an ‘index’ column which was irrelevant. These columns are irrelevant because they hold no significance in predicting the price of wine. Hence these were dropped
