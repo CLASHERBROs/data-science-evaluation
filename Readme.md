@@ -1,4 +1,5 @@
 **Competiton link: https://www.kaggle.com/c/ammi-bootcamp-kaggle-competition**
+\
 **Kaggle notebook link: https://www.kaggle.com/paritoshharora/paritosh-101903069-ds-labevaluation**
 1. **Data Analysis**
    1. When observed the training data had 13 columns including ‘price’
